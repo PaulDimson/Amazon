@@ -1,0 +1,125 @@
+body {
+background-color: #E9EDF0;
+margin: 0%;
+}
+#backgroundlogo {
+    background-color: #233040;
+}
+#logo {
+   height: 70px;
+   margin-left: 30px;
+}
+#topbar {
+    background-color: #364757;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-family: Arial;
+}
+.topspan1 {
+    padding-left: 40px;
+}
+.topsan {
+    padding-left: 20px;
+}
+#giftcard {
+    background-color: #F56600;
+    color: white;
+    margin: 30px 30px 30px 30px;
+    text-align: center;
+    font-family: Arial;
+}
+#shopall {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+#holidayimg {
+    width: 1888px;
+}
+#holiday1 {
+    margin: 30px 30px;
+    background-image: url("bg-image.png");
+    background-repeat: repeat repeat-y;
+    text-align: center;
+    color: white;
+    font-family: Arial;
+    height: 170px;
+}
+#holiday2 {
+    padding-top: 80px;
+}
+#findthe {
+    font-size: 20px;
+    font-family: Arial;
+    background-color: white;
+    margin: 30px 30px;
+    margin-right: 30px;
+    padding: 20px 30px;
+}
+.shopnow {
+    font-size: 20px;
+    padding-left: 20px;
+    color: #006373;
+}
+.fourmages {
+    height: 300px;
+    width: 230px;
+    border-radius: 30px;
+}
+#divfourmages {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+#oculus {
+    margin: 30px 30px;
+}
+.oculusimage {
+    width: 1290px;
+    height: 500px;
+}
+#playthegift {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.shopgaming {
+    font-size: 20px;
+    padding-left: 20px;
+    color: #006373;
+}
+#marshall {
+    margin: 30px 30px;
+}
+.marshallimage {
+    width: 1290px;
+    height: 500px;
+}
+#shopaudio {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.shopaudioac {
+    font-size: 20px;
+    padding-left: 20px;
+    color: #006373;
+}
+#backgroundlogofinal {
+    background-color: #233040;
+    text-align: center;
+}
+#backtotop {
+    background-color: #364757;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+#amazonlogofinal {
+    height: 70px;
+    margin-left: 30px;
+}
